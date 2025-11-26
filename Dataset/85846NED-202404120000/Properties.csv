@@ -1,0 +1,83 @@
+Identifier;Title;Description;Modified;ReleaseDate;ModificationDate;Language;TemporalCoverage;Authority;Catalog;Publisher;ContactPoint;Version;VersionNotes;VersionReason;Frequency;Status;ObservationCount;ObservationsModified;DatasetType;GraphTypes;License;Source;Summary;LongDescription
+85846NED;"Slachtofferschap online criminaliteit; persoonskenmerken";"Deze tabel bevat cijfers over het slachtofferschap van online criminaliteit in de twaalf maanden voorafgaand aan het onderzoek. Het gaat om online oplichting en fraude, hacken, online bedreiging en intimidatie, en overige online delicten. 
+
+Doelpopulatie zijn inwoners van Nederland van 15 jaar en ouder in particuliere huishoudens. De gegevens kunnen worden uitgesplitst naar de kenmerken geslacht, leeftijd, onderwijsniveau, seksuele oriëntatie, intersekse zijn, genderidentiteit, stedelijkheid van de gemeente, inkomen en welvaart.
+
+De cijfers zijn gebaseerd op de Veiligheidsmonitor 2021 en 2023. Door wijzigingen in de vraagstellingen en in de onderzoeksopzet zijn de uitkomsten van de Veiligheidsmonitor 2021 niet zonder meer te vergelijken met die van eerdere edities. Voor meer informatie zie de onderzoeksbeschrijving ‘Veiligheidsmonitor vanaf 2021’ in paragraaf 4. 
+
+Gegevens beschikbaar vanaf: 
+2021
+
+Status van de cijfers:
+De cijfers in deze tabel zijn definitief.
+
+Wijzigingen per 12 april 2024:
+Geen, dit is een nieuwe tabel. Deze tabel is de opvolger van de tabel ‘Slachtofferschap online criminaliteit; persoonskenmerken, 2021’ (zie paragraaf 3).
+ 
+Wanneer komen er nieuwe cijfers?
+Nieuwe gegevens verschijnen tweejaarlijks omstreeks 1 maart.
+
+";2024-04-12T00:00:00+02:00;2024-04-12T00:00:00+02:00;2024-04-12T00:00:00+02:00;nl;2021-2023;https://standaarden.overheid.nl/owms/terms/Centraal_Bureau_voor_de_Statistiek;CBS;https://standaarden.overheid.nl/owms/terms/Centraal_Bureau_voor_de_Statistiek;infoservice@cbs.nl;202404120000;;Nieuw;Per jaar;Regulier;182509;2024-04-12T00:00:00+02:00;Numeric;Table,Bar;https://creativecommons.org/licenses/by/4.0/;CBS.;"Online criminaliteit, oplichting, fraude, hacken, bedreiging, intimidatie
+Geslacht, leeftijd, opleidingsniveau, seksuele oriëntatie, inkomen";"INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie
+
+1. TOELICHTING
+
+Deze tabel bevat cijfers over het slachtofferschap van online criminaliteit in de twaalf maanden voorafgaand aan het onderzoek. Het gaat om online oplichting en fraude, hacken, online bedreiging en intimidatie, en overige online delicten. 
+
+Doelpopulatie zijn inwoners van Nederland van 15 jaar en ouder in particuliere huishoudens. De gegevens kunnen worden uitgesplitst naar de kenmerken geslacht, leeftijd, onderwijsniveau, seksuele oriëntatie, intersekse zijn, genderidentiteit, stedelijkheid van de gemeente, inkomen en welvaart.
+
+De cijfers zijn gebaseerd op de Veiligheidsmonitor 2021 en 2023. Door wijzigingen in de vraagstellingen en in de onderzoeksopzet zijn de uitkomsten van de Veiligheidsmonitor 2021 niet zonder meer te vergelijken met die van eerdere edities. Voor meer informatie zie de onderzoeksbeschrijving ‘Veiligheidsmonitor vanaf 2021’ in paragraaf 4. 
+
+Gegevens beschikbaar vanaf: 
+2021
+
+Status van de cijfers:
+De cijfers in deze tabel zijn definitief.
+
+Wijzigingen per 12 april 2024:
+Geen, dit is een nieuwe tabel. Deze tabel is de opvolger van de tabel ‘Slachtofferschap online criminaliteit; persoonskenmerken, 2021’ (zie paragraaf 3).
+ 
+Wanneer komen er nieuwe cijfers?
+Nieuwe gegevens verschijnen tweejaarlijks omstreeks 1 maart.
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Definities:
+
+Online criminaliteit:
+Veelvoorkomende criminaliteit waarvan burgers slachtoffer worden. Het betreft oplichting en fraude, hacken, bedreiging en intimidatie en overige online delicten.
+
+Verklaring van symbolen:
+
+niets (blanco) : het cijfer kan op logische gronden niet voorkomen
+. : het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+* : voorlopige cijfers
+** : nader voorlopige cijfers
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+
+Relevante tabellen:
+<a href='https://opendata.cbs.nl/#/CBS/nl/dataset/85844NED/table?ts=1709889120530'>Veiligheidsmonitor; kerncijfers, persoonskenmerken</a>
+<a href='https://opendata.cbs.nl/#/CBS/nl/dataset/85146NED/table?ts=1709889213375'>Veiligheidsmonitor; kerncijfers, regio</a>
+
+Deze tabel is de opvolger van de tabel <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/85470NED/table?ts=1709889178339'>Slachtofferschap online criminaliteit; persoonskenmerken, 2021</a>
+
+Meer informatie is te vinden op de themapagina <a href='https://www.cbs.nl/nl-nl/maatschappij/veiligheid-en-recht'>Veiligheid en Recht</a>.
+
+4. BRONNEN EN METHODEN
+
+De onderzoeksmethode van deze tabel is te vinden in de onderzoeksbeschrijving <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksomschrijvingen/veiligheidsmonitor--vanaf-2021--'>Veiligheidsmonitor (vanaf 2021).</a>
+ 
+5. MEER INFORMATIE
+
+<a href='https://www.cbs.nl/nl-nl/over-ons/contact/infoservice'>Infoservice.</a>
+
+Copyright (c) Centraal Bureau voor de Statistiek, Den Haag/Heerlen/Bonaire 
+Verveelvoudiging is toegestaan, mits het CBS als bron wordt vermeld.
+"

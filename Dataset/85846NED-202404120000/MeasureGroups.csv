@@ -1,0 +1,100 @@
+Id;ParentId;Index;Title;Description
+M004986;;3;Online criminaliteit;Bij online criminaliteit gaat het om personen die in de afgelopen 12 maanden slachtoffer zijn geweest van aan- en verkoopfraude, hacken, phishing, fraude betalingsverkeer, identiteitsfraude, online pesten, online stalken, shamesexting, en/of overige online delicten.
+M007791_1;M004986;5;Gevolgen voor slachtoffers;
+M007792;;11;Online oplichting en fraude;Het gaat hierbij om aankoopfraude, verkoopfraude, fraude betalingsverkeer, identiteitsfraude en phishing.
+A047529;M007792;13;Aankoopfraude;Het gaat hierbij om oplichting bij een online aankoop. Slachtoffers hebben zelf al betaald voor producten of diensten (bijv. tickets of reizen) die nooit werden geleverd, en waarbij de verkoper hen achteraf niet terugbetaalde.
+M007791_3;A047529;17;Gevolgen voor slachtoffers;
+T001644_1;A047529;21;Concrete mentale klachten;Slachtoffers die door het voorval bepaalde mentale klachten hebben/hadden.
+M007849_1;A047529;28;Melding en aangifte;
+T001641_1;A047529;42;Reden geen melding/aangifte bij politie;Reden waarom de aankoopfraude niet bij de politie is gemeld of er geen aangifte van is gedaan.
+A047530;M007792;55;Verkoopfraude;Het gaat hierbij om oplichting bij een online verkoop. Slachtoffers hebben zelf de producten of diensten geleverd,  maar de koper betaalde hen niet.
+M007791_5;A047530;59;Gevolgen voor slachtoffers;
+T001644_2;A047530;63;Concrete mentale klachten;Slachtoffers die door het voorval bepaalde mentale klachten hebben/hadden.
+M007849_2;A047530;70;Melding en aangifte;
+T001641_2;A047530;83;Reden geen melding/aangifte bij politie;Reden waarom de verkoopfraude niet bij de politie is gemeld of er geen aangifte van is gedaan
+A050840_1;M007792;96;Fraude betalingsverkeer;Het gaat hierbij om het afschrijven van geld van de bankrekening via een creditcard- of bankoverschrijving zonder dat het slachtoffer of diens partner daar opdracht voor had gegeven.
+A050840_2;A050840_1;98;Voorval;Hoe is de fraude in het betalingsverkeer gebeurd?
+A051925;A050840_1;107;Signalering fraude;Wie had de fraude als eerste opgemerkt?
+M007791_7;A050840_1;110;Gevolgen voor slachtoffers;
+T001644_3;A050840_1;114;Concrete mentale klachten;Slachtoffers die door het voorval bepaalde mentale klachten hebben/hadden.
+M007849_3;A050840_1;121;Melding en aangifte;
+T001641_3;A050840_1;133;Reden geen melding/aangifte bij politie;Reden waarom de fraude in het betalingsverkeer niet bij de politie is gemeld of er geen aangifte van is gedaan.
+T001527;M007792;146;Identiteitsfraude;Het gaat hierbij om illegaal gebruik maken van de persoonsgegevens van het slachtoffer. Bijv. met (een kopie van) uw paspoort, ID-kaart, rijbewijs of gegevens van een online account.
+T001654;T001527;148;Werkwijze dader;Hoe is de dader aan de persoonsgegevens gekomen?
+M007791_9;T001527;159;Gevolgen voor slachtoffers;
+T001644_4;T001527;163;Concrete mentale klachten;Slachtoffers die door het voorval bepaalde mentale klachten hebben/hadden.
+M007849_4;T001527;170;Melding en aangifte;
+T001641_4;T001527;182;Reden geen melding/aangifte bij politie;Reden waarom de identiteitsfraude niet bij de politie is gemeld of er geen aangifte van is gedaan.
+A047711_1;M007792;195;Phishing;Het gaat er hierbij om dat het slachtoffer in bijv. een e-mail, WhatsApp-bericht, telefoontje of ander bericht van een oplichter is getrapt en de oplichter hiermee geld heeft verdiend.
+A047711_2;A047711_1;199;Voorval;Wat heeft het slachtoffer gedaan?
+T001655;A047711_1;210;Werkwijze dader;"Hoe ging(en) de oplichter(s) te werk? 
+Vanaf 2023 is de optie ‘Deed zich voor als beleggingsbedrijf’ toegevoegd aan de vraag over de werkwijze van de dader. Hierdoor kunnen de antwoorden op deze vraag afwijken ten opzichte van 2021.
+"
+M007791_11;A047711_1;222;Gevolgen voor slachtoffers;
+T001644_5;A047711_1;226;Concrete mentale klachten;Slachtoffers die door het voorval bepaalde mentale klachten hebben/hadden.
+M007849_5;A047711_1;233;Melding en aangifte;
+T001641_5;A047711_1;244;Reden geen melding/aangifte bij politie;Reden waarom de phishing niet bij de politie is gemeld of er geen aangifte van is gedaan.
+T001510_1;;257;Hacken;Het gaat er hierbij om dat iemand met kwade bedoelingen zonder toestemming van het slachtoffer heeft ingebroken of ingelogd op bijv. diens computer, account, telefoon of huishoudelijk apparaat. Ook het installeren van kwaadaardige software, virussen of het blokkeren van apparaten telt mee.
+A050841_1;T001510_1;259;Apparaat;Bij hacken apparaat gaat het erom dat iemand met kwade bedoelingen zonder toestemming van het slachtoffer heeft ingebroken of ingelogd op bijv. diens computer, tablet, mobiele telefoon, smartwatch of ander (huishoudelijk) apparaat.
+A050841_2;A050841_1;263;Soort apparaat;Welk apparaat is gehackt?
+T001510_2;A050841_1;271;Voorval;Wat is er gebeurd?
+A051961_1;T001510_2;272;Apparaat of bestanden geblokkeerd;
+A051964_1;T001510_2;276;Gegevens of bestanden gekopieerd;
+A051967_1;A050841_1;283;Oorzaak hack;Op welke manier(en) was het apparaat gehackt?
+M007791_13;A050841_1;292;Gevolgen voor slachtoffers;
+T001644_6;A050841_1;296;Concrete mentale klachten;Slachtoffers die het voorval bepaalde mentale klachten hebben/hadden
+M007849_6;A050841_1;303;Melding en aangifte;
+T001641_6;A050841_1;313;Reden geen melding/aangifte bij politie;Reden waarom het hacken van een apparaat niet bij de politie is gemeld of er geen aangifte van is gedaan.
+A050842_1;T001510_1;326;Account;Het gaat er hierbij om dat iemand met kwade bedoelingen zonder toestemming van het slachtoffer heeft ingebroken of ingelogd op bijv. een e-mailaccount of het account van een webshop, bank, sociale netwerksite, cloudopslag of een andere online dienst.
+A050842_2;A050842_1;330;Soort account;Welk account is gehackt?
+A050842_3;A050842_1;340;Voorval;Wat is er gebeurd?
+A051983_1;A050842_3;341;Account (tijdelijk) geblokkeerd;
+A051964_3;A050842_3;350;Gegevens/documenten gekopieerd;
+A051967_2;A050842_1;355;Oorzaak hack;Op welke manier(en) was het account gehackt?
+M007791_15;A050842_1;364;Gevolgen voor slachtoffers;
+T001644_7;A050842_1;368;Concrete mentale klachten;Slachtoffers die door het voorval bepaalde mentale klachten hebben/hadden.
+M007849_7;A050842_1;375;Melding en aangifte;
+T001641_7;A050842_1;387;Reden geen melding/aangifte bij politie;Reden waarom het hacken van een apparaat niet bij de politie is gemeld of er geen aangifte van is gedaan.
+T001511;;400;Online bedreiging en intimidatie;Het gaat hierbij om online bedreiging met geweld, online pesten, online stalken en shamesexting.
+A050843;T001511;402;Online bedreiging;
+T001503_1;A050843;406;Daders;
+T001503_3;T001503_1;408;Relatie met dader(s);
+A051815_1;T001503_3;411;Dader familielid;
+M007791_17;A050843;432;Gevolgen voor slachtoffers;
+T001644_8;A050843;436;Concrete mentale klachten;Slachtoffers die door het voorval bepaalde mentale klachten hebben/hadden.
+D000059;A050843;443;Melding en aangifte;
+T001641_8;A050843;451;Reden geen melding/aangifte bij politie;Reden waarom de online bedreiging niet bij de politie is gemeld of er geen aangifte van is gedaan.
+A050844_1;T001511;464;Online pesten;Het gaat hierbij om pesten dat geheel of gedeeltelijk online/via internet plaatsvindt.
+T001503_4;A050844_1;466;Bekendheid dader(s);
+T001503_5;T001503_4;470;Relatie met dader(s);
+A051815_3;T001503_5;473;Dader familielid;
+M007791_19;A050844_1;494;Gevolgen voor slachtoffers;
+T001644_9;A050844_1;498;Concrete mentale klachten;Slachtoffers die door het voorval bepaalde mentale klachten hebben/hadden.
+A050844_2;A050844_1;505;Hoe online pesten ervaren;Hoe heeft het slachtoffer het online pesten ervaren?
+M007849_8;A050844_1;510;Melding en aangifte;
+T001641_9;A050844_1;526;Reden geen melding/aangifte bij politie;Reden waarom het online pesten niet bij de politie is gemeld of er geen aangifte van is gedaan.
+A047538;T001511;539;Online stalking;Het gaat hierbij om langere tijd geheel of gedeeltelijk online/via internet stalken, bijv. door het slachtoffer voortdurend te bespioneren, lastig te vallen of steeds ongewenste e-mails of appjes te sturen.
+T001503_6;A047538;541;Bekendheid dader(s);
+T001503_7;T001503_6;545;Relatie met dader(s);
+A051815_5;T001503_7;548;Dader familielid;
+M007791_21;A047538;569;Gevolgen voor slachtoffers;
+T001644_10;A047538;573;Concrete mentale klachten;Slachtoffers die door het voorval bepaalde mentale klachten hebben/hadden
+T001645;A047538;580;Hoe online stalken ervaren;Hoe heeft het slachtoffer het online stalken ervaren?
+M007849_9;A047538;585;Melding en aangifte;
+T001641_10;A047538;599;Reden geen melding/aangifte bij politie;Reden waarom het online stalken niet bij de politie is gemeld of er geen aangifte van is gedaan.
+A050845_1;T001511;612;Shamesexting;Het gaat hierbij om het verspreiden van naaktfoto’s of -filmpjes van het slachtoffer of het dreigen hiermee.
+A050845_2;A050845_1;614;Voorval;Wat is er gebeurd?
+A052005_1;A050845_2;615;Verzoek om geld;
+A052010_1;A050845_2;621;Verzoek om meer naaktfoto's/filmpjes;
+T001503_8;A050845_1;628;Bekendheid daders;
+T001503_10;T001503_8;630;Relatie met dader;
+A051815_7;T001503_10;633;Dader familielid;
+M007791_23;A050845_1;654;Gevolgen voor slachtoffers;
+T001644_11;A050845_1;658;Concrete mentale klachten;Slachtoffers die door het voorval bepaalde mentale klachten hebben/hadden.
+M007849_10;A050845_1;665;Melding en aangifte;
+T001641_11;A050845_1;679;Reden geen melding/aangifte bij politie;Reden waarom de shamesexting niet bij de politie is gemeld of er geen aangifte van is gedaan.
+A047541_1;;692;Overige online delicten;
+M007791_25;A047541_1;694;Gevolgen voor slachtoffers;
+T001644_12;A047541_1;698;Concrete mentale klachten;Slachtoffers die door het voorval bepaalde mentale klachten hebben/hadden.
+M007849_11;A047541_1;705;Melding en aangifte;
+T001641_12;A047541_1;715;Reden geen melding/aangifte bij politie;Reden waarom het overige online delict niet bij de politie is gemeld of er geen aangifte van is gedaan.

@@ -1,0 +1,16 @@
+Id;Index;Title;Description;ParentId;DimensionId
+0;0;Persoonskenmerken;;;Kenmerken
+1;1;Totaal;;0;Kenmerken
+2;2;Geslacht;;0;Kenmerken
+3;3;Leeftijdsklasse beknopt;;0;Kenmerken
+4;4;Leeftijdsklasse uitgebreid;;0;Kenmerken
+5;5;Geboorteland en herkomst;;0;Kenmerken
+6;6;Herkomstland;;0;Kenmerken
+7;7;Opleidingsniveau beknopt;;0;Kenmerken
+8;8;Opleidingsniveau uitgebreid;;0;Kenmerken
+9;9;Seksuele oriëntatie;;0;Kenmerken
+10;10;Intersekse;;0;Kenmerken
+11;11;Genderidentiteit;;0;Kenmerken
+12;12;Inkomen;;0;Kenmerken
+13;13;Welvaart;;0;Kenmerken
+14;14;Stedelijkheid gemeente;;0;Kenmerken

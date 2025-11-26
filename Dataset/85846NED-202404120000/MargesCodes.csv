@@ -1,0 +1,10 @@
+Identifier;DimensionGroupId;DimensionId;Index;Title;Description
+MW00000;;Marges;1;Waarde;
+MOG0095;;Marges;2;Ondergrens 95%-interval;"Ondergrens 95%-interval
+Dit is de ondergrens van het interval waarvan met 95% zekerheid verwacht wordt dat de werkelijke waarde er binnen ligt.
+
+De percentages zijn gebaseerd op een steekproef, en zullen daardoor niet precies gelijk zijn aan de werkelijke waarde zoals die in de bevolking voorkomt. Het ondergrens 95%-interval geeft een indruk van de nauwkeurigheid van de schatting. Deze marge is onder meer afhankelijk van de steekproefomvang; de schatting is nauwkeuriger naarmate deze marge kleiner is. Het ondergrens 95%-interval geeft met een nauwkeurigheid van 95% aan tussen welke waarden het werkelijke percentage waarschijnlijk zal zitten."
+MBG0095;;Marges;3;Bovengrens 95%-interval;"Bovengrens 95%-interval
+Dit is de bovengrens van het interval waarvan met 95% zekerheid verwacht wordt dat de werkelijke waarde er binnen ligt.
+
+De percentages zijn gebaseerd op een steekproef, en zullen daardoor niet precies gelijk zijn aan de werkelijke waarde zoals die in de bevolking voorkomt. Het bovengrens 95%-interval geeft een indruk van de nauwkeurigheid van de schatting. Deze marge is onder meer afhankelijk van de steekproefomvang; de schatting is nauwkeuriger naarmate deze marge kleiner is. Het bovengrens 95%-interval geeft met een nauwkeurigheid van 95% aan tussen welke waarden het werkelijke percentage waarschijnlijk zal zitten."

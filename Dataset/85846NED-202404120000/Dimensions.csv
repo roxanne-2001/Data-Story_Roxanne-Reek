@@ -1,0 +1,4 @@
+Identifier;Title;Description;MapYear;ReleasePolicy;Kind;ContainsGroups;ContainsCodes;CodesUrl;GroupsUrl
+Kenmerken;Kenmerken;;;;Dimension;True;True;KenmerkenCodes.csv;KenmerkenGroups.csv
+Marges;Marges;;;;Dimension;False;True;MargesCodes.csv;
+Perioden;Perioden;;;False;TimeDimension;True;True;PeriodenCodes.csv;PeriodenGroups.csv

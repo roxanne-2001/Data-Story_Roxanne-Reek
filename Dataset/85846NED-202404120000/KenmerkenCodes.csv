@@ -1,0 +1,161 @@
+Identifier;DimensionGroupId;DimensionId;Index;Title;Description
+T001038;1;Kenmerken;1;Totaal personen;
+3000;2;Kenmerken;2;Geslacht: Mannen;
+4000;2;Kenmerken;3;Geslacht: Vrouwen;
+53050;3;Kenmerken;4;Leeftijd: 15 tot 25 jaar;
+53310;3;Kenmerken;5;Leeftijd: 25 tot 45 jaar;
+53715;3;Kenmerken;6;Leeftijd: 45 tot 65 jaar;
+80200;3;Kenmerken;7;Leeftijd: 65 jaar of ouder;
+80010;4;Kenmerken;8;Leeftijd: 15 tot 18 jaar;
+53105;4;Kenmerken;9;Leeftijd: 18 tot 25 jaar;
+53500;4;Kenmerken;10;Leeftijd: 25 tot 35 jaar;
+53700;4;Kenmerken;11;Leeftijd: 35 tot 45 jaar;
+53800;4;Kenmerken;12;Leeftijd: 45 tot 55 jaar;
+53900;4;Kenmerken;13;Leeftijd: 55 tot 65 jaar;
+53925;4;Kenmerken;14;Leeftijd: 65 tot 75 jaar;
+21600;4;Kenmerken;15;Leeftijd: 75 jaar of ouder;
+2018700;7;Kenmerken;16;Onderwijsniveau: laag onderwijs;"Het hoogstbehaald onderwijsniveau is laag onderwijs. 
+
+Dit omvat onderwijs op het niveau van basisonderwijs, het vmbo, de eerste 3 leerjaren van havo/vwo of de assistentenopleiding (mbo-1). 
+
+Op basis van de gesloten onderwijsvraagstelling in de Veiligheidsmonitor kan mbo-1 niet apart worden onderscheiden.
+"
+2018740;7;Kenmerken;17;Onderwijsniveau: middelbaar onderwijs;"Het hoogstbehaald onderwijsniveau is middelbaar onderwijs. 
+
+Dit omvat de bovenbouw van havo/vwo, de basisberoepsopleiding (mbo-2), de vakopleiding (mbo-3) en de middenkader- en specialistenopleidingen (mbo-4)."
+2018790;7;Kenmerken;18;Onderwijsniveau: hoog onderwijs;"Het hoogstbehaald onderwijsniveau is hoog onderwijs. 
+
+Dit omvat onderwijs op het niveau van hbo of wo."
+2018710;8;Kenmerken;19;Onderwijsniveau: basisonderwijs;"Het hoogstbehaald onderwijsniveau is basisonderwijs. 
+
+Dit omvat lagere school, inclusief speciaal onderwijs (bijvoorbeeld LOM, BLO etc.)
+"
+2018720;8;Kenmerken;20;Onderwijsniveau: vmbo,mbo1,avo onderbouw;"Het hoogstbehaald onderwijsniveau is vmbo, mbo 1, onderbouw van het avo. 
+
+Dit omvat de eerste 3 leerjaren van havo/vwo, alle leerwegen van het vmbo en de assistentenopleiding (mbo-1).
+
+Op basis van de gesloten onderwijsvraagstelling in de Veiligheidsmonitor kan mbo-1 niet apart worden onderscheiden.
+"
+2018750;8;Kenmerken;21;Onderwijsniveau: havo, vwo, mbo;"Het hoogstbehaald onderwijsniveau is hoog onderwijs. 
+
+Dit omvat onderwijs op het niveau van hbo of wo."
+2018800;8;Kenmerken;22;Onderwijsniveau: hbo, wo bachelor;"Het hoogstbehaald onderwijsniveau is hbo, wo bachelor. 
+
+Dit omvat de associate degree, de hbo- en wo-bachelors en  4-jarige hbo-opleidingen.
+
+"
+2018810;8;Kenmerken;23;Onderwijsniveau: wo, master, doctor;"Het hoogstbehaald onderwijsniveau is wo master, doctor. 
+
+Dit omvat wo-masters en wo-doctorsopleidingen.
+
+"
+A052625;9;Kenmerken;24;Seks. oriëntatie: Homoseksuele man;Personen die zich identificeren als man en zich uitsluitend tot mannen aangetrokken voelen.
+A052626;9;Kenmerken;25;Seks. oriëntatie: Homoseksuele vrouw;"Personen die zich identificeren als vrouw en zich uitsluitend tot vrouwen aangetrokken voelen.
+"
+A052628;9;Kenmerken;26;Seks. oriëntatie: Biseksuele man;Personen die zich als man identificeren en zich niet uitsluitend tot mannen of vrouwen aangetrokken voelen.
+A052629;9;Kenmerken;27;Seks. oriëntatie: Biseksuele vrouw;Personen die zich als vrouw identificeren en zich niet uitsluitend tot mannen of vrouwen aangetrokken voelen.
+A052622;9;Kenmerken;28;Seks. oriëntatie: Heteroseksuele man;Personen die zich identificeren als man en zich uitsluitend tot vrouwen aangetrokken voelen.
+A052623;9;Kenmerken;29;Seks. oriëntatie: Heteroseksuele vrouw;Personen die zich identificeren als vrouw en zich uitsluitend tot mannen aangetrokken voelen.
+A052630;9;Kenmerken;30;Seks. oriëntatie: Aseksueel;Personen die geen aantrekking tot andere personen voelen.
+A052631;9;Kenmerken;31;Seks. oriëntatie: Anders;Personen met een seksuele oriëntatie anders dan heteroseksueel, homoseksueel, biseksueel of aseksueel.
+A052632;9;Kenmerken;32;Seks. oriëntatie: Weet het (nog) niet;Personen die (nog) niet weten tot welk(e) gender(s) ze zich aangetrokken voelen.
+A052618;10;Kenmerken;33;Intersekse zijn: Niet intersekse;Personen die niet intersekse zijn, d.w.z. die geboren zijn met een lichaam dat past in wat maatschappelijk wordt gezien als mannen- of vrouwenlichaam.
+A052619;10;Kenmerken;34;Intersekse zijn: Wel intersekse;Personen die intersekse zijn, d.w.z. die geboren zijn met een lichaam dat niet past in wat maatschappelijk wordt gezien als mannen- of vrouwenlichaam.
+A052614;11;Kenmerken;35;Genderidentiteit: Mannen;Personen die zich identificeren als man.
+A052615;11;Kenmerken;36;Genderidentiteit: Vrouwen;Personen die zich identificeren als vrouw.
+A052616;11;Kenmerken;37;Genderidentiteit: Non-binair/genderqueer;Personen die zich niet als man of als vrouw identificeren. Zij identificeren zich bijvoorbeeld tussenin, als allebei, of anders.
+1014752;12;Kenmerken;38;1ste 20%-inkomensgroep (laag);De personen respectievelijk huishoudens zijn naar hoogte van hun inkomen in vijf groepen (kwintielen) met een gelijk aantal personen respectievelijk huishoudens verdeeld. De inkomensgrenzen tussen deze vijf 20%-groepen verschillen van jaar tot jaar en zijn afhankelijk van het gehanteerde inkomensbegrip.
+1014753;12;Kenmerken;39;2e 20%-inkomensgroep;De personen respectievelijk huishoudens zijn naar hoogte van hun inkomen in vijf groepen (kwintielen) met een gelijk aantal personen respectievelijk huishoudens verdeeld. De inkomensgrenzen tussen deze vijf 20%-groepen verschillen van jaar tot jaar en zijn afhankelijk van het gehanteerde inkomensbegrip.
+1014754;12;Kenmerken;40;3e 20%-inkomensgroep;De personen respectievelijk huishoudens zijn naar hoogte van hun inkomen in vijf groepen (kwintielen) met een gelijk aantal personen respectievelijk huishoudens verdeeld. De inkomensgrenzen tussen deze vijf 20%-groepen verschillen van jaar tot jaar en zijn afhankelijk van het gehanteerde inkomensbegrip.
+1014755;12;Kenmerken;41;4e 20%-inkomensgroep;De personen respectievelijk huishoudens zijn naar hoogte van hun inkomen in vijf groepen (kwintielen) met een gelijk aantal personen respectievelijk huishoudens verdeeld. De inkomensgrenzen tussen deze vijf 20%-groepen verschillen van jaar tot jaar en zijn afhankelijk van het gehanteerde inkomensbegrip.
+1014756;12;Kenmerken;42;5e 20%-inkomensgroep (hoog);De personen respectievelijk huishoudens zijn naar hoogte van hun inkomen in vijf groepen (kwintielen) met een gelijk aantal personen respectievelijk huishoudens verdeeld. De inkomensgrenzen tussen deze vijf 20%-groepen verschillen van jaar tot jaar en zijn afhankelijk van het gehanteerde inkomensbegrip.
+2021770;13;Kenmerken;43;1ste 20%-welvaartsgroep (laag);De welvaart van een huishouden (en de huishoudensleden) is gebaseerd op een maat die informatie bevat over zowel het gestandaardiseerd besteedbaar inkomen als het vermogen van huishoudens. De rangschikkingen van huishoudens naar hoogte van het inkomen en van het vermogen zijn hierbij het uitgangspunt. De welvaart van een huishouden is vastgesteld als de som van het cumulatieve aandeel in het totale inkomen van alle huishoudens en het cumulatieve aandeel in het totale vermogen (zie Van den Brakel en Gidding, 2019). Op grond van de optelling zijn huishoudens opnieuw geordend van laag naar hoog en in vijf gelijke groepen (kwintielgroepen) ingedeeld. Huishoudens in de laagste welvaartsgroep hebben een laag inkomen én een laag vermogen. Naarmate het inkomen of vermogen hoger is, wordt een huishouden in een hogere groep (kwintiel) ingedeeld. Huishoudens in de hoogste welvaartsgroep hebben een hoog inkomen én een hoog vermogen. Alle personen in een huishouden behoren tot dezelfde kwintielgroep als het huishouden.
+2021780;13;Kenmerken;44;2e 20%-welvaartsgroep;De welvaart van een huishouden (en de huishoudensleden) is gebaseerd op een maat die informatie bevat over zowel het gestandaardiseerd besteedbaar inkomen als het vermogen van huishoudens. De rangschikkingen van huishoudens naar hoogte van het inkomen en van het vermogen zijn hierbij het uitgangspunt. De welvaart van een huishouden is vastgesteld als de som van het cumulatieve aandeel in het totale inkomen van alle huishoudens en het cumulatieve aandeel in het totale vermogen (zie Van den Brakel en Gidding, 2019). Op grond van de optelling zijn huishoudens opnieuw geordend van laag naar hoog en in vijf gelijke groepen (kwintielgroepen) ingedeeld. Huishoudens in de laagste welvaartsgroep hebben een laag inkomen én een laag vermogen. Naarmate het inkomen of vermogen hoger is, wordt een huishouden in een hogere groep (kwintiel) ingedeeld. Huishoudens in de hoogste welvaartsgroep hebben een hoog inkomen én een hoog vermogen. Alle personen in een huishouden behoren tot dezelfde kwintielgroep als het huishouden.
+2021790;13;Kenmerken;45;3e 20%-welvaartsgroep;De welvaart van een huishouden (en de huishoudensleden) is gebaseerd op een maat die informatie bevat over zowel het gestandaardiseerd besteedbaar inkomen als het vermogen van huishoudens. De rangschikkingen van huishoudens naar hoogte van het inkomen en van het vermogen zijn hierbij het uitgangspunt. De welvaart van een huishouden is vastgesteld als de som van het cumulatieve aandeel in het totale inkomen van alle huishoudens en het cumulatieve aandeel in het totale vermogen (zie Van den Brakel en Gidding, 2019). Op grond van de optelling zijn huishoudens opnieuw geordend van laag naar hoog en in vijf gelijke groepen (kwintielgroepen) ingedeeld. Huishoudens in de laagste welvaartsgroep hebben een laag inkomen én een laag vermogen. Naarmate het inkomen of vermogen hoger is, wordt een huishouden in een hogere groep (kwintiel) ingedeeld. Huishoudens in de hoogste welvaartsgroep hebben een hoog inkomen én een hoog vermogen. Alle personen in een huishouden behoren tot dezelfde kwintielgroep als het huishouden.
+2021800;13;Kenmerken;46;4e 20%-welvaartsgroep;De welvaart van een huishouden (en de huishoudensleden) is gebaseerd op een maat die informatie bevat over zowel het gestandaardiseerd besteedbaar inkomen als het vermogen van huishoudens. De rangschikkingen van huishoudens naar hoogte van het inkomen en van het vermogen zijn hierbij het uitgangspunt. De welvaart van een huishouden is vastgesteld als de som van het cumulatieve aandeel in het totale inkomen van alle huishoudens en het cumulatieve aandeel in het totale vermogen (zie Van den Brakel en Gidding, 2019). Op grond van de optelling zijn huishoudens opnieuw geordend van laag naar hoog en in vijf gelijke groepen (kwintielgroepen) ingedeeld. Huishoudens in de laagste welvaartsgroep hebben een laag inkomen én een laag vermogen. Naarmate het inkomen of vermogen hoger is, wordt een huishouden in een hogere groep (kwintiel) ingedeeld. Huishoudens in de hoogste welvaartsgroep hebben een hoog inkomen én een hoog vermogen. Alle personen in een huishouden behoren tot dezelfde kwintielgroep als het huishouden.
+2021810;13;Kenmerken;47;5e 20%-welvaartsgroep (hoog);De welvaart van een huishouden (en de huishoudensleden) is gebaseerd op een maat die informatie bevat over zowel het gestandaardiseerd besteedbaar inkomen als het vermogen van huishoudens. De rangschikkingen van huishoudens naar hoogte van het inkomen en van het vermogen zijn hierbij het uitgangspunt. De welvaart van een huishouden is vastgesteld als de som van het cumulatieve aandeel in het totale inkomen van alle huishoudens en het cumulatieve aandeel in het totale vermogen (zie Van den Brakel en Gidding, 2019). Op grond van de optelling zijn huishoudens opnieuw geordend van laag naar hoog en in vijf gelijke groepen (kwintielgroepen) ingedeeld. Huishoudens in de laagste welvaartsgroep hebben een laag inkomen én een laag vermogen. Naarmate het inkomen of vermogen hoger is, wordt een huishouden in een hogere groep (kwintiel) ingedeeld. Huishoudens in de hoogste welvaartsgroep hebben een hoog inkomen én een hoog vermogen. Alle personen in een huishouden behoren tot dezelfde kwintielgroep als het huishouden.
+1018850;14;Kenmerken;48;Zeer sterk stedelijk;"Op grond van de omgevingsadressendichtheid is aan iedere gemeente een stedelijkheidsklasse toegekend. 
+De volgende klassenindeling is gehanteerd:
+- zeer sterk stedelijk > = 2 500 omgevingsadressen per km2.
+- sterk stedelijk 1 500 - < 2 500 omgevingsadressen per km2.
+- matig stedelijk 1 000 - < 1 500 omgevingsadressen per km2.
+- weinig stedelijk 500 - < 1 000 omgevingsadressen per km2.
+- niet stedelijk < 500 omgevingsadressen per km2.
+
+Omgevingsadressendichtheid (van een adres):
+Het aantal adressen binnen een cirkel met een straal van één kilometer rondom een adres, gedeeld door de oppervlakte van de cirkel. De omgevingsadressendichtheid wordt uitgedrukt in adressen per km2."
+1018905;14;Kenmerken;49;Sterk stedelijk;"Op grond van de omgevingsadressendichtheid is aan iedere gemeente een stedelijkheidsklasse toegekend. 
+De volgende klassenindeling is gehanteerd:
+- zeer sterk stedelijk > = 2 500 omgevingsadressen per km2.
+- sterk stedelijk 1 500 - < 2 500 omgevingsadressen per km2.
+- matig stedelijk 1 000 - < 1 500 omgevingsadressen per km2.
+- weinig stedelijk 500 - < 1 000 omgevingsadressen per km2.
+- niet stedelijk < 500 omgevingsadressen per km2.
+
+Omgevingsadressendichtheid (van een adres):
+Het aantal adressen binnen een cirkel met een straal van één kilometer rondom een adres, gedeeld door de oppervlakte van de cirkel. De omgevingsadressendichtheid wordt uitgedrukt in adressen per km2."
+1018955;14;Kenmerken;50;Matig stedelijk;"Op grond van de omgevingsadressendichtheid is aan iedere gemeente een stedelijkheidsklasse toegekend. 
+De volgende klassenindeling is gehanteerd:
+- zeer sterk stedelijk > = 2 500 omgevingsadressen per km2.
+- sterk stedelijk 1 500 - < 2 500 omgevingsadressen per km2.
+- matig stedelijk 1 000 - < 1 500 omgevingsadressen per km2.
+- weinig stedelijk 500 - < 1 000 omgevingsadressen per km2.
+- niet stedelijk < 500 omgevingsadressen per km2.
+
+Omgevingsadressendichtheid (van een adres):
+Het aantal adressen binnen een cirkel met een straal van één kilometer rondom een adres, gedeeld door de oppervlakte van de cirkel. De omgevingsadressendichtheid wordt uitgedrukt in adressen per km2."
+1019005;14;Kenmerken;51;Weinig stedelijk;"Op grond van de omgevingsadressendichtheid is aan iedere gemeente een stedelijkheidsklasse toegekend. 
+De volgende klassenindeling is gehanteerd:
+- zeer sterk stedelijk > = 2 500 omgevingsadressen per km2.
+- sterk stedelijk 1 500 - < 2 500 omgevingsadressen per km2.
+- matig stedelijk 1 000 - < 1 500 omgevingsadressen per km2.
+- weinig stedelijk 500 - < 1 000 omgevingsadressen per km2.
+- niet stedelijk < 500 omgevingsadressen per km2.
+
+Omgevingsadressendichtheid (van een adres):
+Het aantal adressen binnen een cirkel met een straal van één kilometer rondom een adres, gedeeld door de oppervlakte van de cirkel. De omgevingsadressendichtheid wordt uitgedrukt in adressen per km2."
+1019052;14;Kenmerken;52;Niet stedelijk;"Op grond van de omgevingsadressendichtheid is aan iedere gemeente een stedelijkheidsklasse toegekend. 
+De volgende klassenindeling is gehanteerd:
+- zeer sterk stedelijk > = 2 500 omgevingsadressen per km2.
+- sterk stedelijk 1 500 - < 2 500 omgevingsadressen per km2.
+- matig stedelijk 1 000 - < 1 500 omgevingsadressen per km2.
+- weinig stedelijk 500 - < 1 000 omgevingsadressen per km2.
+- niet stedelijk < 500 omgevingsadressen per km2.
+
+Omgevingsadressendichtheid (van een adres):
+Het aantal adressen binnen een cirkel met een straal van één kilometer rondom een adres, gedeeld door de oppervlakte van de cirkel. De omgevingsadressendichtheid wordt uitgedrukt in adressen per km2."
+A051735;5;Kenmerken;53;Herkomst: geboren in Nederland;
+A051760;5;Kenmerken;54;Herkomst: geb. in NL, ouders in NL;
+A051742;5;Kenmerken;55;Herkomst: geb. in NL, ouder(s) buiten NL;
+A051761;5;Kenmerken;56;Herkomst: geb. in NL, ouder(s) in Europa;
+A051762;5;Kenmerken;57;Herkomst: geb. NL, ouder(s) buit. Europa;
+A052022;5;Kenmerken;58;Herkomst: geb. in NL, ouder(s) Turkije;
+A052023;5;Kenmerken;59;Herkomst: geb. in NL, ouder(s) Marokko;
+A052024;5;Kenmerken;60;Herkomst: geb. in NL, ouder(s) Suriname;
+A052025;5;Kenmerken;61;Herkomst: geb. in NL, ouder(s) NL Carib.;
+A052026;5;Kenmerken;62;Herkomst: geb. in NL, ouder(s) Indonesië;
+A052027;5;Kenmerken;63;Herkomst: geb. in NL, ouder(s) ov.Afrika;
+A052028;5;Kenmerken;64;Herkomst: geb. in NL, ouder(s) ov.Azië;
+A052029;5;Kenmerken;65;Herkomst: geb. in NL, ouder(s) ov.Am+Oc;
+A051736;5;Kenmerken;66;Herkomst: geboren buiten Nederland;
+A051763;5;Kenmerken;67;Herkomst: geboren in Europa (excl. NL);
+A051764;5;Kenmerken;68;Herkomst: geboren buiten Europa;
+A052030;5;Kenmerken;69;Herkomst: geboren in Turkije;
+A052031;5;Kenmerken;70;Herkomst: geboren in Marokko;
+A052032;5;Kenmerken;71;Herkomst: geboren in Suriname;
+A052033;5;Kenmerken;72;Herkomst: geboren in Nederlandse Cariben;
+A052034;5;Kenmerken;73;Herkomst: geboren in Indonesië;
+A052035;5;Kenmerken;74;Herkomst: geboren in overig Afrika;
+A052036;5;Kenmerken;75;Herkomst: geboren in overig Azië;
+A052037;5;Kenmerken;76;Herkomst: geboren in ov. Amerika+Oceanië;
+1012600;6;Kenmerken;77;Herkomstland: Nederland;
+H007933;6;Kenmerken;78;Herkomstland: Europa (excl. Nederland);
+H008859;6;Kenmerken;79;Herkomstland: buiten Europa;
+H008766;6;Kenmerken;80;Herkomstland: Turkije;
+H008673;6;Kenmerken;81;Herkomstland: Marokko;
+H008751;6;Kenmerken;82;Herkomstland: Suriname;
+H007119;6;Kenmerken;83;Herkomstland: Nederlandse Cariben;
+H008632;6;Kenmerken;84;Herkomstland: Indonesië;
+H008860;6;Kenmerken;85;Herkomstland: Afrika (exclusief Marokko);
+H008862;6;Kenmerken;86;Herkomstland: Azië (ex Indonesië en T..;
+H008861;6;Kenmerken;87;Herkomstland: Amerika en Oceanië (ex S..;
