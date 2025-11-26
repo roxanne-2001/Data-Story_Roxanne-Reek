@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="styles/style.css">
+  <title>Data_Story_Veilig over straat</title>
+   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+  <script src="script.js" defer></script>
+  <header>
+     <!-- Navigatie -->
+    <nav class="Navigatie">
+        <div class="logo">
+            <a href="Data_Story.html">
+              <img src="image/website icon.svg" alt="logo">
+              <span>Roxanne Reek</span>
+            </a>
+        </div>
+        <div class="nav-buttons">
+            <a href="#veiligheidsgevoel">Veiligheidsgevoel</a>
+            <a href="#media-invloed">Media-invloed</a>
+            <a href="#mijn-ervaring">Mijn ervaring</a>
+            <a href="#onveiligheid">Onveiligheid</a>
+            <a href="#beleidsmaatregelen">Beleidsmaatregelen</a>
+            <a href="bronvermelding.html">Bronvermelding</a>
+        </div>
+    </nav>
+  </header>
+
+  <main class="Data_Story-container">
+    <!-- Intro / Hero -->
+    <div class="intro-container">
+        <div class="Header">
+            <h1>VEILIG over <span class="underline">Straat</span></h1>
+            <h3>het gevoel in verandering</h3>
+        </div>
+        <div class="Header-img">
+            <img src="image/ladies-intro.png">
+        </div>
+        <div class="Onveiligheid-grafiek">
+          <iframe src="onveilig-buur.html" width="100%" height="350"></iframe>
+          <ul>
+            <li>Centraal Bureau voor de Statistiek. (2024). Veiligheidsmonitor 2023. CBS. https://www.cbs.nl/nl-nl/longread/rapportages/2024/veiligheidsmonitor-2023?onepage=true</li>
+          </ul>
+        </div>
+        <div class="intro-tekst">
+            <h3>Veiligheid op straat voor iedereen</h3>
+            <p>Veilig over straat staat sinds de moord op de 17-jarige Lisa uit Abcoude hoog op de agenda.
+                Veel jonge vrouwen voelen zich onveilig op straat en is laatste paar maanden flink toegenomen blijkt uit verschillende cijfers (VeiligheidNL, 2025). 
+                Zo’n 4000 jonge vrouwen gaven in een NOS-enquête aan zich altijd onveilig te voelen. Niet alleen vrouwen voelen zich ontveilig ook jongeren, ouderden, migranten, 
+                mensen met een beperking en de LHBTQIA+ voelen zich allemaal onveilig op straat.</p>
+        </div>
+    </div>
+
+    <!-- Veiligheidsgevoel -->
+    <div id="veiligheidsgevoel" class="Veiligheidsgevoel-container">
+        <div class="Veiligheidsgevoel-tekst"> 
+            <h3>Veiligheidsgevoel</h3>
+              <p>Het gevoel van veiligheid dat een avondactiviteit zou moeten meebrengen, is tegenwoordig voor veel mensen ver te zoeken. 
+                Een simpele planning, zoals in je eentje naar de sportclub gaan, kan al zorgen voor onrust. Vooral vrouwen ervaren dit sterk: 
+                zij voelen zich in het donker vaak niet op hun gemak om alleen over straat te gaan. Dit blijkt ook uit cijfers van het CBS dat een 
+                eerderheid van de vrouwen zich onveilig te voelen in de avonduren. Uit een recent onderzoek van RTL Nieuws (2025) 
+                komt zelfs naar voren dat maar liefst 68% van de vrouwen zich buitenshuis onveilig voelt zodra de zon ondergaat. De cijfers benadrukken dat 
+                veiligheid op straat niet alleen een praktische, maar ook een emotioneel en maatschappelijk probleem is.  
+            </p>  
+            <p>Niet alleen vrouwen voelen zich onveilig op straat. Bij de mannen tussen de 15 en 25 jaar zegt ongeveer 20% weleens om te lopen 
+               of om te rijden meld de NOS(2025). Uit cijfers van het CBS blijkt dat vrouwen zich in alle categorieën aanzienlijk onveiliger voelen dan mannen
+            </p>      
+        </div>
+        <div>
+            <img src="image/Walking-lady.png" alt="mevrouw wandelt alleen" class="img-veiligheid">
+        </div>
+        <div class="Veiligheid-grafiek">
+            <!-- Hier komt de Plotly-figuur met de naam Ervaren onveiligheid per categrie en type -->
+          <iframe src="grafiek.html" width="80%" height="600"></iframe>
+          <ul>          
+            <li>https://www.cbs.nl/nl-nl/longread/rapportages/2024/veiligheidsmonitor-2023/3-veiligheidsbeleving</li>
+          </ul>
+        </div>
+    </div>
+
+
+    <!-- Media-invloed -->
+    <div id="media-invloed" class="Media-invloed-container">
+      <div class="Media-tekst">
+        <h3>Media-invloed</h3>
+        <p>Media speelt een belangrijke rol in hoe het gevoel van veiligheid op straat wordt beleefd en neergezet. 
+          Zo benadrukt de NOS (2025) dat de veiligheid van vrouwen vaak als een “mannenprobleem” wordt gepresenteerd, waardoor de verantwoordelijkheid breder in de 
+          samenleving wordt gelegd. Dit perspectief leidt tot verschillende maatschappelijke discussies. Het RTL Nieuws (2025) kiest juist voor een andere invalshoek en 
+          legt de nadruk op emotie en urgentie. Beide mediaplatformen gebruiken CBS-cijfers als basis, waardoor objectieve data zichtbaar en invoelbaar wordt gemaakt.
+          De grafiek hieronder visualiseert hoe verschillende groepen over deze kwesties denken. Mannen en vrouwen hebben uiteenlopende percepties over veiligheid en de impact 
+          van discussies zoals #MeToo, terwijl ook gevoelens van onveiligheid in het openbaar vervoer zichtbaar worden. Zo ontstaat een debat over de vraag wie verantwoordelijk is voor onveiligheid: 
+          de samenleving als geheel of individuen.</p>
+           <ul>
+          <li>https://www.cbs.nl/nl-nl/longread/rapportages/2024/veiligheidsmonitor-2023/3-veiligheidsbeleving</li>
+          <li>Renfurm, K., & Renfurm, K. (2025, augustus 26). Veiligheid van vrouwen op straat is een mannenprobleem. NOS. https://nos.nl/artikel/2579990-veiligheid-van-vrouwen-op-straat-is-een-mannenprobleem</li>
+          <li>Van Peursem, N., & Cornelisse, D. (2025, augustus 30). 68 procent van vrouwen voelt zich onveilig buitenshuis na zonsondergang. RTL Nieuws. https://www.rtl.nl/nieuws/rtl-nieuwspanel/artikel/5525698/cijfers-veiligheid-donker-straat-vrouwen-nieuwspanel#:~:text=Twee%20derde%20van%20de%20vrouwen,%22Dit%20is%20ernstig.%22</li>
+        </ul>
+      </div>
+      <div class="Discussie-cijfers">
+        <iframe src="discussie-meningen.html" width="100%" height="600px" allowtransparency="true"></iframe>
+      </div>
+    </div>
+
+
+    <!-- Mijn eigen ervaring -->
+     <div id="mijn-ervaring" class="eigen-ervaring">
+        <div class="tekst-eigen-ervaring">
+          <h3>Eigen ervaring</h3>
+          <p>
+            Het bericht over Lisa maakte iets in mij los. Niet alleen omdat ze zo jong was, 
+            maar ook omdat het me liet nadenken over mijn eigen gevoel van veiligheid. Het bracht 
+            me terug naar een periode in mijn buurt, toen ik ineens niet meer naar de hockey mocht. 
+            Er waren spanningen tussen jongeren in Beverwijk en Heemskerk ruzies, bendes, gedoe dat 
+            uit de hand liep.
+          </p>
+          <p>
+            Wat eerst gewoon mijn vertrouwde route naar de club was, voelde plots anders. Het was gek om te merken hoe snel iets wat zo normaal leek, 
+            kan veranderen in iets dat angst oproept. Sinds die tijd besef ik dat veiligheid niet vanzelfsprekend is. Dat het niet alleen iets is wat je op het nieuws 
+            ziet of in cijfers leest, maar iets wat je van heel dichtbij kunt voelen in je eigen straat, op weg naar iets wat je lief is.
+            </p>
+          <p>
+            Die persoonlijke ervaring maakt ook duidelijk hoe groot de invloed 
+            van media kan zijn op hoe we veiligheid beleven. Wat we zien, lezen en horen 
+            bepaalt vaak hoe we situaties inschatten en welke emoties dat oproept.
+          </p>
+        </div>
+        <div class="ilustratie-samen">
+          <img src="image/Samen.png" alt="ilustratie mensen samen">
+        </div>
+     </div>
+
+    <!-- Onveiligheid -->
+    <div id="onveiligheid" class="Onveiligheid-container">
+      <div class="Onveiligheid-tekst">
+        <h3>Onveiligheid in Nederland</h3>
+       <p>Hoewel het algemene gevoel van onveiligheid de afgelopen jaren licht is gestegen, is de daadwerkelijke criminaliteit in Nederland op de lange termijn juist afgenomen. Het aantal slachtoffers van traditionele misdrijven, zoals inbraken en diefstal, neemt af, terwijl de bereidheid om misdrijven te melden weer iets toeneemt (Centraal Bureau voor de Statistiek, 2024).
+        Onveiligheid in Nederland wordt vooral gevoeld op individueel niveau: vrouwen geven vaker aan zich onveilig te voelen dan mannen. Tegelijkertijd neemt het belang van digitale veiligheid sterk toe, omdat online criminaliteit, zoals phishing, ransomware, identiteitsfraude en online bedreiging, toeneemt (Politie, 2023). De grafiek hieronder laat zien dat mannen en vrouwen in verschillende leeftijdsgroepen uiteenlopend slachtoffer zijn van online criminaliteit, waarbij vooral oplichting en fraude vaak voorkomen.
+        Daarnaast identificeert de AIVD twee belangrijke veiligheidsdreigingen voor Nederland: enerzijds de kans op terroristische aanslagen en anderzijds het dagelijkse risico van cyberaanvallen die gericht zijn op spionage en economische voordelen (Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, 2024).
+      </p>
+      </div>
+      <div class="cijfers-online-criminaliteit">
+        <iframe src="online_criminaliteit_leeftijd.html"></iframe>
+        <ul>
+          <li>Centraal Bureau voor de Statistiek. (2024, 12 april). Slachtofferschap online criminaliteit; persoonskenmerken. Centraal Bureau Voor de Statistiek. https://www.cbs.nl/nl-nl/cijfers/detail/85846NED</li>
+        </ul>      
+      </div>
+    </div>
+
+    <!-- Kaart van Nederland Onveiligheid -->
+    <div class="Nederland-containter">
+    <div class="Cijfer-Nederland">
+        <iframe src="Nederland.html" width="100%" height="500px"></iframe>
+        <ul>
+            <li>Municipalities of the Netherlands. (2019, 14 mei). Kaggle. https://www.kaggle.com/datasets/justinboon/municipalities-of-the-netherlands</li>
+            <li>Cartomap. (z.d.). Kaarten van Nederland. https://cartomap.github.io/nl/</li>
+            <li>https://www.cbs.nl/nl-nl/longread/rapportages/2024/veiligheidsmonitor-2023/3-veiligheidsbeleving</li>
+        </ul>
+    </div>
+  </div>
+     
+
+    <!-- Beleidsmaatregelen -->
+    <div id="beleidsmaatregelen" class="Beleidsmaatregelen-container">
+      <div class="Beleidsmaatregelen-tekst">
+        <h3>Beleidsmaatregelen en cijfers rondom veiligheid</h3>
+        <p>De rijksoverheid werkt continu aan de veiligheid in Nederland, 
+          en de afgelopen weken zijn de maatregelen aangescherpt naar aanleiding 
+          van het ongeluk van Lisa. De overheid zet in op veiligheid, zowel offline als online. 
+          Er wordt extra politiecapaciteit ingezet en er zijn gerichte acties tegen ondermijnende criminaliteit. 
+          Tegelijk groeit de aandacht voor digitale veiligheid: cyberaanvallen en online fraude nemen toe, dus er wordt geïnvesteerd 
+          in weerbare systemen en bewustwording bij burgers en bedrijven.</p>
+
+        <p>De cijfers laten zien dat het aantal geregistreerde misdrijven nog altijd aanzienlijk is, 
+          maar dat slechts een deel daarvan ook daadwerkelijk tot vervolging leidt. Een kleiner deel van die vervolgingen vindt 
+          online plaats. Dit betekent dat veel zaken nog buiten het zicht van de rechtspraak blijven, en dat er dus nog ruimte is 
+          voor verbetering in de opvolging van aangiftes. De verdeling in de donutgrafiek maakt dit zichtbaar: het grootste gedeelte 
+          bestaat uit geregistreerde misdrijven, gevolgd door een kleiner segment van vervolgde zaken, en een nog kleiner deel 
+          dat online wordt afgehandeld. Deze verhouding benadrukt waarom beleidsmakers blijven investeren in zowel handhaving 
+          als preventie, met als doel om niet alleen misdrijven te registreren, maar ze ook effectief te vervolgen — offline én online.</p>
+        
+        <p>Niet alleen de overheid, maar ook lokale initiatieven en campagnes dragen bij aan meer veiligheid. In Leiden wordt 
+          de ‘Ben je oke’ campagne extra onder de aandacht gebracht om ongewenst seksueel gedrag bespreekbaar 
+          te maken. In Hilversum wordt dezelfde campagne ingezet om de veiligheid van vrouwen te verbeteren. Gemeenten zetten 
+          daarnaast in op bewustwording en normverandering om straatintimidatie tegen te gaan. Zo worden in Den Haag stewards ingezet 
+          op de boulevard van Scheveningen en gaan zij in gesprek met inwoners om het probleem bespreekbaar te maken.</p>
+      </div>
+      <div class="beleidsmaatregelen-cijfers">
+        <div class="Meldingsbereidheid">
+          <iframe src="Donut_Misdrijven.html" width="100%" height="400px"></iframe>
+          <ul>
+            <li>Dutch crimes. (2022, 19 oktober). Kaggle. https://www.kaggle.com/datasets/maxscheijen/dutch-crimes</li>
+          </ul>
+        </div>
+        <div class="img-cijfers">
+            <img src="image/woman.png" alt="Tekening cijfers">
+        </div>
+        <div class="cijfer">
+          <iframe src="Linechart_Criminaliteit.html" width="100%" height="500px"></iframe>
+          <ul>
+            <li>Dutch crimes. (2022, 19 oktober). Kaggle. https://www.kaggle.com/datasets/maxscheijen/dutch-crimes</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="Conclusie-container">
+      <div class="Conclusie-tekst">
+        <h3>Veiligheid in Perspectief</h3>
+        <p>Uit deze data story blijkt dat het gevoel van onveiligheid op straat vooral wordt ervaren door vrouwen, jongeren, migranten, mensen met een beperking en 
+          de LHBTQIA+-gemeenschap. Hoewel de daadwerkelijke criminaliteit in Nederland op de lange termijn afneemt, voelt een groot deel van de bevolking zich juist 
+          onveiliger, vooral in de avonduren of op specifieke locaties. Persoonlijke ervaringen, zoals nare gebeurtenissen in de buurt, en mediaberichtgeving spelen een belangrijke rol 
+          in hoe veiligheid wordt beleefd.</p>
+        <p>De cijfers laten zien dat vrouwen zich systematisch onveiliger voelen dan mannen en dat het gevoel van onveiligheid zowel fysieke als emotionele gevolgen heeft. Tegelijkertijd neemt de dreiging van 
+          digitale criminaliteit toe, waardoor online veiligheid steeds belangrijker wordt.
+           Beleidsmaatregelen van de overheid en lokale initiatieven, zoals extra politie-inzet, bewustwordingscampagnes en preventieve acties tegen straatintimidatie, zijn essentieel om 
+           deze gevoelens van onveiligheid tegen te gaan. Dit laat zien dat veiligheid een gedeelde verantwoordelijkheid is: van de overheid, de gemeenschap en individuen. Uiteindelijk benadrukt deze data story dat 
+           gevoel en werkelijkheid soms uit elkaar kunnen lopen, en dat het aanpakken van onveiligheid zowel objectieve als subjectieve elementen vereist.</p>
+      </div>
+      <div class="Conclusie-ilustratie">
+        <img src="image/together.png" alt="conclusie-ilustratie">
+      </div>
+    </div>
+</main>
+
+<footer>
+    <div class="Footer">
+       <div>
+        <h4>Rox Design House | Data Story © 2025</h4>
+       </div>
+    </div>
+</footer>
+</body>
+</html>
